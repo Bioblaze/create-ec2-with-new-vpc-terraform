@@ -25,7 +25,7 @@ variable "instance_type" {
 variable "key_file" {
     description = "How much Money do you want to spend? A.K.A. EC2 Instance Size?"
     type = string
-    default = "t2.micro"
+    default = "key_file"
 }
 
 variable "cidr_block" {

@@ -4,7 +4,7 @@
 #### P.S. I also did this, so I can learn on my off time. 10,000 Hours to Master a Skill, it all starts with the first hour.
 
 
-![Diagram of This Project](master/files/diagram.png)
+![Diagram of This Project](files/diagram.png)
 
 ## This Terraform Project/Module is specific to AWS ~
 ## Be Advised this is for AWS
